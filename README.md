@@ -1,4 +1,4 @@
-# emaill_listchecker
+# email_listchecker
 
 Upload a main list<br>
 Upload a delta list<br>
